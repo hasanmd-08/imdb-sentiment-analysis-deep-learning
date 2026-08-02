@@ -1,0 +1,17 @@
+# Virtual environment
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Trained model files
+*.keras
+
+# Tokenizer/model artifacts
+tokenizer.json
+model_metadata.json
+
+# OS files
+.DS_Store
+Thumbs.db
